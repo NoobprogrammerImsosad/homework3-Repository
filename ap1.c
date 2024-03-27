@@ -2,7 +2,7 @@
 #include <stdlib.h>
 void main()
 {
-    printf("[----- [TaeYoungKim] [2021041005] -----]\n");
+printf("[----- [TaeYoungKim] [2021041005] -----]\n");
 int list[5];//Declaring int array named list
 int *plist[5] = {NULL,};//Assigning Null to array of pointer named plist
 plist[0] = (int *)malloc(sizeof(int));//Dynamic allocation to plist[0]

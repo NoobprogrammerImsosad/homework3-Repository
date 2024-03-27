@@ -2,7 +2,7 @@
 #include <stdlib.h>
 void main()
 {
-    printf("[----- [TaeYoungKim] [2021041005] -----]\n");
+printf("[----- [TaeYoungKim] [2021041005] -----]\n");
 int list[5];//Declaring array of int named list
 int *plist[5];//Declaring array of int pointer named plist
 list[0] = 10;//Assigning 10 to list[0]
